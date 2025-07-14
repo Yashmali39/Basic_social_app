@@ -1,0 +1,3 @@
+here use npm i multer to install multer
+#   Memory Storage :- used to upload on database
+#   Disk Storage :- Used to upload on server
